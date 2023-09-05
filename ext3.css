@@ -1,0 +1,33 @@
+/*ul {
+ list-style: square inside url("sqpurple.gif");
+ list-style-position: inside ;
+ }
+ ol {
+list-style:armenian;
+list-style-position: outside;
+}
+div{
+    display: inline;
+}
+li{
+    display:inline
+}
+span{display: block;}
+.abc{display: none;}
+.ab{visibility: hidden;}*/
+.para12{
+    background-color: lightblue;
+    color: coral;
+    height: 50px;
+    width: 100px;
+    overflow: hidden;
+}
+div~p{
+    background-color: aquamarine;
+}
+.anu{
+    display: inline-block;
+    height:20%;
+    width:15%;
+    background-color: chartreuse;
+}

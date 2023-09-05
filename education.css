@@ -1,0 +1,61 @@
+.para11{
+    padding-top: 3%;
+    color: blue;
+   }
+   .para12{
+    color: blue;
+   }
+   .para13{
+   padding-top: 2%;
+   padding-left: 3%;
+   color: black;
+   font-size: small;
+   }
+   .para14{
+   padding-left: 3%;
+   color:black;
+   font-size: small;
+    }
+   .para15{
+    padding-left: 3%;
+    color: black;
+    font-size: small;
+    }
+   .para16{
+    padding-top: 3%;
+   color: blue;
+    }
+    .para17{
+   color: blue;
+    }
+   .para18{ padding-left: 3%;
+   color: black;
+   font-size: small;
+    }
+    .para19{ padding-left: 3%;
+        color:black;
+        font-size: small;
+        }
+        .para20{
+         color:blue;
+         padding-top: 3%;
+        }
+        .para21{ padding-left: 3%;
+        color: black;
+         font-size: small;
+        }
+        .para22{ padding-left: 3%;
+        color: black;
+        font-size: small;
+        }
+        .para10{
+            color: crimson;
+            font-size: xx-large;
+            height: 20%;
+            font-family: fantasy;
+            margin-top: 5%;
+        }
+.clr{
+    background-color: lightgreen;
+    padding-bottom: 20%;
+}

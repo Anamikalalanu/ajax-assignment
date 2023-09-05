@@ -1,0 +1,21 @@
+table ,th,td{
+    border: 1px double;
+    border-color: violet;
+    
+  }
+  table{
+    width: 100%;
+  }
+  
+  td{
+    text-align: center;
+  }
+  th,th{
+    padding: 20px;
+  }
+  th:hover{
+    background-color: aliceblue;
+  }
+  tr:nth-child(odd){
+    background-color: hotpink;
+  }

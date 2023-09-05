@@ -1,0 +1,73 @@
+
+
+a:link{
+    display: inline-flex;
+    text-decoration: none;
+    color: blue;
+
+}
+a:hover{
+    color: brown;
+    text-decoration: underline;
+}
+.para2{
+    display: inline-block;
+    color: black;
+    padding-left: 80%;
+}
+.name{
+    font-family: cursive;
+    color: blue;
+margin-left: 35px;
+
+
+}
+.button {
+	background-color: green;
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	margin-left: 47%;
+}
+
+#bdn {
+	margin-top: 20px;
+}
+.personal{
+    background-color: grey;
+    color: blue;
+    float: right;
+    padding-right: 5%;
+}
+.para3{
+margin-left: 45px;
+}
+.para4{
+margin-left: 45px;
+}
+.bg{
+    margin-bottom: 20px;
+	background-image: url(./images/prsnl.png);
+	background-repeat: repeat;
+	width: 130%;
+	height: 100%;
+	position: absolute;
+	z-index: -1;
+	opacity: 0.4;
+	border-bottom: 20px;
+	border-color: black;
+}
+.header {
+	color: hotpink;
+	font-size: xx-large;
+    font-family:cursive ;
+	text-align: left;
+    
+}
+.imgs{
+    height: 30%;
+    width: 25%;
+    align-content: center;
+    margin-left: 27%;
+    margin-top: 10%;
+}

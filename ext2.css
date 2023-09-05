@@ -1,0 +1,26 @@
+/*img{
+   position: absolute;
+ left: 0px;
+ top: 0px; 
+ z-index: -1;
+}*/
+
+
+
+
+a:link{
+  color: blueviolet;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  text-decoration: none;
+}
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+  text-decoration: underline; 
+}
