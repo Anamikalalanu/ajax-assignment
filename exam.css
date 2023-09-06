@@ -1,0 +1,31 @@
+.par1{
+    background-color: purple;
+    
+}
+.par2{
+    text-align: center;
+}
+.par3{
+    margin-left: 40%;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: white;
+    border-width: 20%;
+    
+}
+a:link{
+    color: black;
+    align-items: initial;
+}
+.par5{
+    color: black;
+    margin-left: 40%;
+    
+}
+.par6{
+    color:black;
+    margin-left: 40%;
+}
+par7{
+    margin-left: 40%;
+}
