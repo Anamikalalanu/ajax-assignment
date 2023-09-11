@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(224, 154, 154);
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav{
+  max-width: 900px;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.grid {
+  height: 400px;
+  width: 1000px;
+  border: 3px solid black;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 2.5fr 1.5fr;
+}
+
+.first {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  gap: 50%;
+}
+.bottom{
+  font-weight: bold;
+}

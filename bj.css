@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(245, 245, 190);
+}
+.nav ul li a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    max-width: 800px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.grid {
+    height: 400px;
+    width: 850px;
+    border: 3px solid black;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+  }
+  .first {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    gap: 50%;
+  }
+  .bottom{
+    font-weight: bold;
+  }
+  .second{
+    justify-self: auto;
+  }

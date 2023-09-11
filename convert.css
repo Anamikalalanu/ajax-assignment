@@ -3,7 +3,9 @@ body{
     margin-left: 3%;
     padding-top: 2%;
 }
-.par1{float: left;}
+
+.par1{float: left;
+padding-left: 10px;}
 
 .par2{
     float: left;
@@ -29,4 +31,9 @@ img{
 }
 i{
     padding:1%;
+}
+.main{
+    border: 2px solid black;
+    height: 300px;
+    max-width: 600px;
 }
