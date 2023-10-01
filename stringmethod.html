@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Number Methods</h2>
+
+<p>The toString() method converts a number to a string.</p>
+
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<p id="demo3"></p>
+
+<script>
+let x = 123;
+document.getElementById("demo").innerHTML =
+  x.toString() + "<br>" +
+   (123).toString() + "<br>" +
+   (100 + 23).toString();
+   let y = 9.656;
+document.getElementById("demo").innerHTML =
+  y.toFixed(0) + "<br>" +
+  y.toFixed(2) + "<br>" +
+  y.toFixed(4) + "<br>" +
+  y.toFixed(6);
+  const fruits = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("demo1").innerHTML = fruits.toString();
+const fruits1 = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("demo2").innerHTML = fruits1;
+fruits1[fruits1.length] = "Kiwi";
+document.getElementById("demo3").innerHTML = fruits1;
+</script>
+
+</body>
+</html>

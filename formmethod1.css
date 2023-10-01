@@ -1,0 +1,32 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(55,29,253,1) 50%, rgba(252,176,69,1) 100%);
+background-attachment: fixed;
+margin:0%;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 150%;
+}
+.group{
+    margin-top: 3%;
+}
+#registration{
+    width: 400px;
+    margin: 20vh auto 0 auto;
+    background-color: whitesmoke;
+    border-radius: 6px;
+    padding: 30px;
+
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+#error1{
+    color: red;
+}
+#error2{
+    color: red;
+}
+#error3{
+    color: red;
+}
